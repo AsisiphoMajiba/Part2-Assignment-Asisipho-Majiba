@@ -1,0 +1,65 @@
+/* =====================================
+   GLOBAL STYLES
+===================================== */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+/* =====================================
+   HOME PAGE STYLES
+===================================== */
+
+.hero {
+    background-color: lightblue;
+    padding: 100px;
+    text-align: center;
+}
+
+.home-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* =====================================
+   ABOUT PAGE STYLES
+===================================== */
+
+.about-banner {
+    background-color: #f4f4f4;
+    padding: 80px;
+    text-align: center;
+}
+
+.team-member {
+    margin-bottom: 20px;
+}
+
+/* =====================================
+   CONTACT PAGE STYLES
+===================================== */
+
+.contact-form {
+    width: 50%;
+    margin: auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
